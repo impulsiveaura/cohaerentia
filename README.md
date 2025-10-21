@@ -30,6 +30,10 @@ These three works establish the theoretical, ethical, and operational foundation
 
 ---
 
+
+## 👨‍🔬 Community (https://github.com/yourusername/cohaerentia)
+
+
 ## ⚖️ License
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
 © 2025 Sharaf Samiur Rahman — *Cohærentia Institute for Harmonic Intelligence*
