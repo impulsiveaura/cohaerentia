@@ -31,4 +31,4 @@ These three works establish the theoretical, ethical, and operational foundation
 
 ---
 
-**License:** CC BY 4.0
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
