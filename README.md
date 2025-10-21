@@ -31,7 +31,7 @@ These three works establish the theoretical, ethical, and operational foundation
 ---
 
 
-## 👨‍🔬 Community (https://github.com/yourusername/cohaerentia)
+## 👨‍🔬 Community (https://zenodo.org/communities/cohaerentia))
 
 
 ## ⚖️ License
