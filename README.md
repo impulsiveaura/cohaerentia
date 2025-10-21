@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Cohærentia Banner" width="85%">
-</p>
-
----
-
 # 🜂 **Cohærentia — The Harmonic Intelligence Project**
 ### *Independent Research Initiative founded by Sharaf Samiur Rahman*
 
