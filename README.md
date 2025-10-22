@@ -11,13 +11,16 @@ It advances the concept of **Harmonic Intelligence**, where coherence, resonance
 
 ## 🧩 Founding Corpus (DOI Publications)
 
+### 📘 Founding Corpus (DOI Publications)
+
 | **Work** | **DOI** | **Type** |
 |-----------|----------|----------|
 | *The Cohærentia Manifesto* | [https://doi.org/10.5281/zenodo.17406827](https://doi.org/10.5281/zenodo.17406827) | Foundational Declaration |
 | *The Cohærentia White Paper* | [https://doi.org/10.5281/zenodo.17406292](https://doi.org/10.5281/zenodo.17406292) | Conceptual Outline |
 | *The Cohærentia Master Framework (CMF)* | [https://doi.org/10.5281/zenodo.17409027](https://doi.org/10.5281/zenodo.17409027) | Scientific Framework |
+| *Declaration of Foundation: Cohærentia — The Harmonic Intelligence Project* | [https://doi.org/10.5281/zenodo.17410062](https://doi.org/10.5281/zenodo.17410062) | Institutional Charter |
+| *The Harmonic Intelligence Experiments (2026): Empirical Validation of the Cohærentia Master Framework and Appendix A* | [https://doi.org/10.5281/zenodo.17411762](https://doi.org/10.5281/zenodo.17411762) | Empirical Study |
 
-These three works establish the theoretical, ethical, and operational foundation of the **Cohærentia Institute for Harmonic Intelligence**.
 
 ---
 
